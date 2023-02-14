@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+}
+
+.centered {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+  }
+
+.left-column {
+    width: 60%;
+    background-color: lightblue;
+  }
+  
+.right-column {
+    width: 40%;
+    background-color: lightcoral;
+  }
