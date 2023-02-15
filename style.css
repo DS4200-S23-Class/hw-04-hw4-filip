@@ -26,6 +26,10 @@ circle {
     fill: blueviolet;
 }
 
+circle:hover {
+  fill: blue;
+}
+
 .line {
 	stroke: black;
 	stroke-width: 5
